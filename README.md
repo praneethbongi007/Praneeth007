@@ -1,5 +1,5 @@
 [![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)](https://www.linkedin.com/in/praneeth-bongi-1a6902253/)
-<h1 align="center">Hi 👋, I'm Prtaneeth Bongi</h1>
+<h1 align="center">Hi 👋, I'm Praneeth Bongi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethbongi007&label=Profile%20views&color=0e75b6&style=flat" alt="praneethbongi007" /> </p>
