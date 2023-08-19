@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQFkdHFcCq-OaA/profile-displaybackgroundimage-shrink_200_800/0/1673765206169?e=2147483647&v=beta&t=WmRzjGkYJi5t7Ba6uMMQyD-uyxJc6WHVKQuj9iE86hY)](https://www.linkedin.com/in/praneeth-bongi-1a6902253/)
 <h1 align="center">Hi 👋, I'm Praneeth Bongi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethbongi007&label=Profile%20views&color=0e75b6&style=flat" alt="praneethbongi007" /> </p>
 
