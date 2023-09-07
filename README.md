@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/praneethbongi" target="blank"><img src="https://img.shields.io/twitter/follow/praneethbongi?logo=twitter&style=for-the-badge" alt="praneethbongi" /></a> </p>
 
-- 🔭 I’m currently working in **Accenture**
+- 🔭 I’m currently working as **web developer**
 
 - 🌱 I’m currently learning **React Native**
 
